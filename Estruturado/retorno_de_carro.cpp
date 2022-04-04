@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Testando \t a \t tabulação \t horizontal.\n";
+    cout << "retorno de carro\n";
+    cout << "retorno \rde carro\n";
 
     return 0;
 }
